@@ -17,6 +17,7 @@ $(document).ready(function () {
         }
     });
     $("#loginButton").click(function () {
+        alert("Welcome user")
         $("#loginModal").modal('show');
     });
     $(".loginClose").click(function () {
