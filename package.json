@@ -47,7 +47,7 @@
     "copyfiles": "^2.1.1",
     "font-awesome": "^4.7.0",
     "imagemin-cli": "^5.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "less": "^3.10.3",
     "node-sass": "^4.13.0",
     "onchange": "^6.1.0",
